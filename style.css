@@ -1,0 +1,74 @@
+body{
+    margin: 0px;
+}
+.container{
+    margin-bottom: 60px;
+}
+.full-width-bg{
+    background: #F0FFF0;
+}
+h2{
+    text-align: center;
+    padding-bottom: 40px;
+    font-weight: bolder;
+}
+.navbar-color .nav-item {
+    word-spacing: 10px;
+}
+.navbar-color .nav-item .nav-link{
+    color: #000000;
+    font-weight: bold;
+}
+.text-highlight{
+    color: #21B573;
+}
+.green-btn{
+    text-align: center;
+    background: #21B573;
+    color: #fff!important;
+    height: 43px;
+    width: 104px;
+    border-radius: 33px;
+} 
+.all-green-btn{
+    text-decoration: none;
+    background: #21B573;
+    color: #fff!important;
+    padding: 15px 30px;
+    border-radius: 33px;
+} 
+.card-sm{
+    padding: 48px;
+    height: 250px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    background:  #F8FFFB;
+}
+.card-sm:hover{
+    padding: 48px;
+    height: 250px;
+    text-align: center;
+    border: none;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.single-card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.cd-footer-img img{
+    width: 10%;
+}
+.testomonial-area{
+    width: 75%;
+}
+.man-img img{
+    width: 75%;
+}
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
